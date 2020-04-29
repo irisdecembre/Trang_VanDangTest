@@ -3,7 +3,8 @@ import matplotlib
 import numpy as np
 import networkx as nx
 from graph import Graph
-
+# quoc vua sua cai file nay do nha
+print("quoc handsome boiz !")
 
 def getAdjMatrix():
     AdjMatrix = []
